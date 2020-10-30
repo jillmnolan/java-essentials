@@ -156,6 +156,8 @@ Thank you for Microsoft for compiling their [**recommended Java plugins**](https
 
 ## Disclaimer
 
+**Please be advised that this is an "off-the-clock" passion project, whose intent is to be utilized by anyone (including my colleagues) who will derive benefit from this one-click installation of popular extensions that I felt was a relevant theme to this Extension Pack.**
+
 ## Singing Off
 
 **Please enjoy! Cheers!**
