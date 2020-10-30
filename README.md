@@ -122,11 +122,11 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * If you wish to use **keyboard shortcuts**, please select the weblink to view shortcuts relevant to your operating system:
 
-  * [**Windows**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): Link contains PDF.
+  * [**Linux**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf): Link contains PDF.
 
   * [**macOS**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf): Link contains PDF.
 
-  * [**Linux**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf): Link contains PDF.
+  * [**Windows**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf): Link contains PDF.
 
 * If you wish to use **key bindings**, please puruse the [**Visual Studio Code Key Bindings**](https://code.visualstudio.com/docs/getstarted/keybindings)
 
