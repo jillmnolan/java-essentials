@@ -8,33 +8,9 @@ Are you tired of reinstalling extensions on each of your computer(s)? How about 
 
 Glad, that you've asked! Please find the supervening extensions. Of course, I always love to hear your suggestions to improve this extension package. To do so, please create a new issue in the [**Issues Section**](https://github.com/jillmnolan/java-essentials/issues). After all, the ultimate goal for this extension pack is convenience at the click of one button.
 
-* [**Azure Account**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
+### Recommended Extensions for Java Development
 
-* [**Auzre IoT Hub**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
-
-* [**Azure Repos**](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)
-
-* [**Azure Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
-
-  * [**Azure App Service**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
-
-  * [**Azure CLI Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
-
-  * [**Azure Databases**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
-
-  * [**Azure Functions**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
-
-  * [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
-
-  * [**Azure Resource Groups**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups)
-
-  * [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
-
-  * [**Azure Storage**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
-
-  * [**Azure Virtual Machines**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
-
-  * [**Docker**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+#### Java Development Support Extensions
 
 * [**Bazel**](https://marketplace.visualstudio.com/items?itemName=BazelBuild.vscode-bazel)
 
@@ -64,8 +40,6 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * [**Jetty for Java**](https://marketplace.visualstudio.com/items?itemName=SummerSun.vscode-jetty): You will need the Jetty Server to take advantage of this plugin.  For more information, please puruse the [**Eclipse Jetty**](https://www.eclipse.org/jetty/) webpage. :)
 
-* [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
-
 * [**Live Share**](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 * [**Lombok Annotations Support for VS Code**](https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok)
@@ -84,6 +58,54 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
 * [**Quarkus**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-quarkus)
 
+* [**Server Connector**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector)
+
+* [**SonarLint**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+
+* [**Tomcat for Java**](https://marketplace.visualstudio.com/items?itemName=adashen.vscode-tomcat)
+
+#### Spring Framework Support Extensions
+
+* [**Spring Boot Dashboard**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard)
+
+* [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-spring-boot)
+
+* [**Spring Initializr Java Support**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)
+
+#### Azure Support Extensions
+
+* [**Azure Account**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account)
+
+* [**Auzre IoT Hub**](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
+
+* [**Azure Repos**](https://marketplace.visualstudio.com/items?itemName=ms-vsts.team)
+
+* [**Azure Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
+
+  * [**Azure App Service**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
+
+  * [**Azure CLI Tools**](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli)
+
+  * [**Azure Databases**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
+
+  * [**Azure Functions**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+
+  * [**Azure Pipelines**](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+
+  * [**Azure Resource Groups**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups)
+
+  * [**Azure Resource Manager (ARM) Tools**](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
+
+  * [**Azure Storage**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
+
+  * [**Azure Virtual Machines**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
+
+  * [**Docker**](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+* [**Kubernetes**](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
+
+#### WSL Support Extensions
+
 * [**Remote Development**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
 
   * [**Remote - Containers**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
@@ -92,23 +114,11 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
   * [**Remote - WSL**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 
-* [**Server Connector**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector)
-
-* [**SonarLint**](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
-
-* [**Spring Boot Dashboard**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-boot-dashboard)
-
-* [**Spring Boot Tools**](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-spring-boot)
-
-* [**Spring Initializr Java Support**](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-spring-initializr)
-
-* [**Tomcat for Java**](https://marketplace.visualstudio.com/items?itemName=adashen.vscode-tomcat)
-
 **_Please feel free to disable any plugin that you do not wish to have activated from the use of our extension pack_. :)**
 
 ## Visual Studio Code Tips and Tricks
 
-* If you wish to use variables subsitution, please puruse the [**VSCode Variables Reference**](https://code.visualstudio.com/docs/editor/variables-reference).
+* If you wish to use variables subsitution, please puruse the [**Visual Studio Code Variables Reference**](https://code.visualstudio.com/docs/editor/variables-reference).
 
 * If you wish to use **keyboard shortcuts**, please select the weblink to view shortcuts relevant to your operating system:
 
@@ -118,11 +128,11 @@ Glad, that you've asked! Please find the supervening extensions. Of course, I al
 
   * [**Linux**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf): Link contains PDF.
 
-* If you wish to use **key bindings**, please puruse the [**VSCode Key Bindings**](https://code.visualstudio.com/docs/getstarted/keybindings)
+* If you wish to use **key bindings**, please puruse the [**Visual Studio Code Key Bindings**](https://code.visualstudio.com/docs/getstarted/keybindings)
 
   * [**Optional Keymap Extensions**](https://marketplace.visualstudio.com/search?target=VSCode&category=Keymaps&sortBy=Relevance): I recommend the specific keybinding extension that meets your use case through Microsoft, whenever possible. :)
 
-* Please puruse the [**VSCode Tips and Tricks**](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) to make your experience a little bit more enjoyable.
+* Please puruse the [**Visual Studio Code Tips and Tricks**](https://code.visualstudio.com/docs/getstarted/tips-and-tricks) to make your experience a little bit more enjoyable.
 
 ## Note
 
@@ -130,7 +140,7 @@ It is my pledge to update this Extension Package with updated extension(s) as ne
 
 ## Recommended Video Tutorials
 
-* [**Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo): Courtesy of FreeCodeCamp.org YouTube channel (1:32:34).
+* [**Visual Studio Code Crash Course**](https://www.youtube.com/watch?v=WPqXP_kLzpo): Courtesy of FreeCodeCamp.org YouTube channel (1:32:34).
 
 * [**Developing Java Applications with Visual Studio Code**](https://www.youtube.com/watch?v=RJIfsSmU9zk): Courtesy of Oracle Developers YouTube channel (46:35).
 
